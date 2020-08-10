@@ -1,0 +1,8 @@
+I am Chandhan.
+I like to code in JS.
+This is my first website I ever created to store the links of my games.
+I am in 6th grade. 
+I am learning how to make apps and games.
+I am also learning CSS and HTML.
+I have made many games.
+These are just some of my games which anyone can play.
